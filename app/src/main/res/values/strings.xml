@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SXcalc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Score_Message">The Best Scroe:%d</string>
+    <string name="Welcome_Button">Enter</string>
+    <string name="maker" translatable="false">Srpioht* ANTI/Painter</string>
+    <string name="Welcome_image">Srpihot</string>
+    <string name="LeftNumber" translatable="false">leftnumber</string>
+    <string name="equ_textview" translatable="false">= \?</string>
+    <string name="The_True_Score">The True Score: %d</string>
+    <string name="opt" translatable="false">+</string>
+    <string name="rightnubmer" translatable="false">Rightnubmer</string>
+    <string name="Question_Message">YEAH!</string>
+    <string name="button1" translatable="false">1</string>
+    <string name="button2" translatable="false">2</string>
+    <string name="button3" translatable="false">3</string>
+    <string name="button4" translatable="false">4</string>
+    <string name="button5" translatable="false">5</string>
+    <string name="button6" translatable="false">6</string>
+    <string name="button7" translatable="false">7</string>
+    <string name="button8" translatable="false">8</string>
+    <string name="button9" translatable="false">9</string>
+    <string name="button0" translatable="false">0</string>
+    <string name="buttonAC" translatable="false">AC</string>
+    <string name="buttonOK" translatable="false">OK</string>
+    <string name="WIN_message">Yeah! You Win!</string>
+    <string name="Go_On">Yeah! go on!</string>
+    <string name="WIN_recon">The New: %d</string>
+    <string name="win_image" translatable="false">win_image</string>
+    <string name="back_to_first">Back</string>
+    <string name="Lose_message">No! You Lose!</string>
+    <string name="Lose_image" translatable="false">Lose_image</string>
+    <string name="Lose_scord_message">Your Record: %d</string>
+    <string name="quit_message_title">Are You Sure Quit?</string>
+    <string name="quit_yes"> Yes </string>
+    <string name="quit_cancle">Cancle</string>
+    <string name="welcome_title" translatable="false">SX</string>
+    <string name="question_title">TEST</string>
+    <string name="win_title">WIN</string>
+    <string name="lose_title">LOSE</string>
+</resources>

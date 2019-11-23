@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SX口算</string>
+    <string name="Go_On">回答正确！</string>
+    <string name="Lose_message">失败！</string>
+    <string name="Lose_scord_message">你的分数为: %d</string>
+    <string name="Question_Message">你好！</string>
+    <string name="Score_Message">最佳成绩:%d分</string>
+    <string name="The_True_Score">当前成绩:%d分</string>
+    <string name="WIN_message">恭喜你获得胜利！</string>
+    <string name="WIN_recon">新纪录:%d分</string>
+    <string name="Welcome_Button">开始</string>
+    <string name="Welcome_image">孙培豪</string>
+    <string name="back_to_first">返回</string>
+    <string name="win_title">成功</string>
+    <string name="quit_yes" translatable="false">确定</string>
+    <string name="quit_message_title">是否退出？</string>
+    <string name="quit_cancle">取消</string>
+    <string name="question_title">测试</string>
+    <string name="lose_title">失败</string>
+</resources>

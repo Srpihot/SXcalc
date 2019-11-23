@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Big_Size">40sp</dimen>
+    <dimen name="Mid_Size">30sp</dimen>
+    <dimen name="sBig_Size">50sp</dimen>
+</resources>
